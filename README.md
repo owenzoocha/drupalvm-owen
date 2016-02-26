@@ -1,4 +1,4 @@
-##### Refer to below for more info:
+## Refer to below for more info:
 This is built on top of [Drupal VM](http://www.drupalvm.com/) with some custom tweaks. Check out the link more info.
 
 ##### Custom tweaks:
